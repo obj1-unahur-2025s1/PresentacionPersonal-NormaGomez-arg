@@ -11,7 +11,7 @@
 - Estudio Tecnicatura en programación
 - Toda mi vida trabajé en Consultorias de Investigación de Mercado y Opinión Pública
 - Desde el 2009 tengo mi propia Consultora que se llama NHG Consultora
-
+![Foto](./Foto_Norma.png)
 
 ### Otra Información
 La Investigación de Mercado ha cambiado mucho en los últimos años.
