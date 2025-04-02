@@ -19,8 +19,7 @@
 
 
 ### Otra Información
-La Investigación de Mercado ha cambiado mucho en los últimos años.
-Estoy pensando en reinventarme combinando el conocimiento del mercado con las nuevas herramientas tecnológicas.
-Desarrollar herramientas y aplicaciones que mejoren la recopilación, análisis y visualización de datos de mercado.
-Ofrecer servicios de consultoría que combinen mi experiencia en investigación de mercado con nuevas habilidades en programación. 
-Ayudar a las empresas a integrar soluciones tecnológicas en sus procesos de investigación.
+La investigación de mercado ha evolucionado significativamente en los últimos años. 
+Estoy explorando una nueva etapa profesional que combine mi conocimiento del sector con las herramientas tecnológicas actuales. 
+Aspiro a desarrollar soluciones y aplicaciones que optimicen la recopilación, el análisis y la visualización de datos de mercado. 
+Mi objetivo es ofrecer servicios de consultoría que integren mi experiencia en investigación con nuevas competencias en programación, y así ayudar a las empresas a incorporar tecnologías innovadoras en sus procesos de toma de decisiones.
