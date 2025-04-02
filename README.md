@@ -6,10 +6,10 @@
 ### Datos Personales
 - Mi nombre es Norma Gomez
 - Vivo en Castelar
-- Estudié Bachiller con Orientación Docente
-- Hice tres años de Bioquímica en la UBA
+- Soy Bachiller con Orientación Docente
+- Aprobé tres años de Bioquímica en la UBA
 - Estudio Tecnicatura en programación
-- Toda mi vida trabajé en Consultorias de Investigación de Mercado y Opinión Pública
+- Toda mi vida trabajé en Consultoras de Investigación de Mercado y Opinión Pública
 - Desde el 2009 tengo mi propia Consultora que se llama NHG Consultora
   
 <p align="center">
